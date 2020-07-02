@@ -1,0 +1,5 @@
+baseURL = "http://jhel.no/"
+languageCode = "en-us"
+title = "jhel.no"
+theme = "hugo-theme-console"
+
